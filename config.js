@@ -4,8 +4,8 @@
 const CONFIG = {
   email:    "ishanichoudharykkr@gmail.com",
   linkedin: "https://www.linkedin.com/in/ishani-cse",
-  github:   "https://github.com/ishani-cse",   // apna sahi GitHub link check karo
-  resume:   "assets/resume/Ishani_Resume.pdf",
+  github:   "https://github.com/ishani-cse",   
+  resume:   "Ishani_Resume.pdf",
   interniq: "", saferoute: "https://github.com/ishani-cse/Saferoute-ai", gesture: "",      // project links
   images:   { interniq: "interniq.jpg", saferoute: "saferoute.jpg", gesture: "gesture.jpg" }
 };
